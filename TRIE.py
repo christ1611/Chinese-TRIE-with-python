@@ -1,6 +1,6 @@
 #####################################################################################
-#Program name  : TRIE model for chineze-Hanzi Pinyin Prediction
-#Description   : Make the TRIE based on chinese Pinyin character
+#Program name  : TRIE.py
+#Description   : Make the TRIE based on chinese Pinyin character in python
 #                Real time training model of chinese-hanzi prediction model
 #                Training The TRIE to understand the hanzi-Pinyin Relation
 #                Training the TRIE to give the prediction for the next given hanzi
@@ -9,10 +9,12 @@
 #                Build a adaptive TRIE Initizilation based on the Sogou dataset
 #                Updating the TRIE and reccomendation score based on the user input or preferences
 #                Weighting and sorting the hanzi prediction
-#                
+#
+#Copyright     : Distribution, modification, reproduction, and copy are strictly prohibited to unauthorized persons.
 #Author        : Hotama Christianus Frederick (christianusfrederick@gmail.com)
 #Platform      : Jupyter notebook
 #Version       : v1.0
+#Commit        : December 2018
 ######################################################################################
 
 import urllib.request
