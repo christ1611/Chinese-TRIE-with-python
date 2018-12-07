@@ -10,3 +10,5 @@ The advantage of this version instead of the C++ version
 Pre-requements:
 1. Ubuntu16.04 LTS or advanced
 2. Please install tensorflow, pinyin and codecs before using this
+
+Previous project about chinese TRIE in C++: https://github.com/christ1611/Chinese_TRIE.git
